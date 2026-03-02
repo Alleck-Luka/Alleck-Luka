@@ -7,21 +7,13 @@
 
 ---
 
-## 👨‍💻 About Me
-
 Software Engineer graduated, currently focused on **Mobile Development** and pursuing a postgraduate degree in the field.
 
-My main stack is centered around building scalable mobile applications with a solid backend foundation.
-
-- 📱 Focused on Flutter development
-- 🌐 Backend with Express.js
-- 🗄 PostgreSQL as primary database
-- 🐳 Docker for containerization
-- ☁️ Experience deploying full-stack applications
+My core stack is centered around building scalable mobile applications with a solid backend foundation.
 
 ---
 
-## 🚀 Core Stack
+## Core Stack
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -37,14 +29,6 @@ My main stack is centered around building scalable mobile applications with a so
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-- Building production-ready mobile applications
-- Improving software architecture and clean code practices
-- Studying advanced mobile patterns and popular frameworks and libraries
 
 ---
 
