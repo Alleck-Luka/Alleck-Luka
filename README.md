@@ -36,9 +36,3 @@ My core stack is centered around building scalable mobile applications with a so
 
 - LinkedIn: https://www.linkedin.com/in/alleckluka/
 - Email: allecklukap@gmail.com
-
----
-
-<p align="center">
-  <i>Building clean and scalable solutions.</i>
-</p>
