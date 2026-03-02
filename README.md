@@ -21,7 +21,7 @@ My main stack is centered around building scalable mobile applications with a so
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Core Stack
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -44,7 +44,7 @@ My main stack is centered around building scalable mobile applications with a so
 
 - Building production-ready mobile applications
 - Improving software architecture and clean code practices
-- Studying advanced mobile patterns and backend scalability
+- Studying advanced mobile patterns and popular frameworks and libraries
 
 ---
 
